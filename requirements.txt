@@ -1,0 +1,10 @@
+numpy
+pandas
+nltk
+tensorflow-hub>=0.6.0
+tensorflow-model-optimization>=0.4.1
+tensorflow-datasets
+tf-keras>=2.16.0
+pickle
+random
+flask
